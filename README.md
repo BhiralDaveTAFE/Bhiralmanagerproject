@@ -1,4 +1,4 @@
-# Bhiralmanagerproject
+# Wiggles
 TAFE Project
 
 ## Bigger heading
